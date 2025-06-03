@@ -48,8 +48,13 @@ python3 manage.py createsuperuser
 
 ### 7. Run the server
 ```bash
-python3 manage.py createsuperuser
+python3 manage.py runserver  
 ```
 
+### 8. Access the server
+Access this in your local browser
+```bash
+localhost:8000
+```
 
 
