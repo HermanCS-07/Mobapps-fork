@@ -57,4 +57,11 @@ Access this in your local browser
 localhost:8000
 ```
 
+## Authors
+- Teuku Achmad Ra'di Syah (23/511627/PA/21833)
+- I Putu Herjuna Manasye Suarthana (23/511460/PA/21801)
+- Ivan Adito Arba Putra (23/511562/PA/21821)
+- Muhammad Rafif Akio Sarwadi (23/511466/PA/21802)
+
+
 
